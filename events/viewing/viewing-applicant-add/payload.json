@@ -2,8 +2,8 @@
   "event":{
     "alias":"viewing-applicant-add",
     "name":"Applicant added to viewing",
-    "created":"2023-03-14 10:34:57",
-    "sent":"2023-03-14 10:34:57"
+    "created":"{{timestamp}}",
+    "sent":"{{timestamp}}"
   },
   "webhook":{
     "id":"2471",

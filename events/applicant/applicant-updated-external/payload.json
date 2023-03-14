@@ -1,15 +1,15 @@
 {
   "event":{
-    "alias":"applicant-add",
-    "name":"Applicant added",
+    "alias":"applicant-updated-external",
+    "name":"Applicant updated via Middleware",
     "created":"{{timestamp}}",
     "sent":"{{timestamp}}"
   },
   "webhook":{
-    "id":"2470",
+    "id":"2473",
     "url":"webhook-url",
     "status":"subscribed",
-    "event_alias":"applicant-add",
+    "event_alias":"applicant-updated-external",
     "subscribe_url":"subscribe-url",
     "unsubscribe_url":"unsubscribe-url",
     "delete_url":"delete-url"
